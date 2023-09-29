@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/////wAAAPBVVVVVDwAA8FVVVVUPAADwVVVVVQ8AAPBVVVVVDwAA8PWfmZkPAADwX5+ZmQ8AAPBfXyVSDwAA8FVVJVIPAAAA/////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "shooter"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAkJEAAAAAAACQkQAAAAAAAJZhAAAAAAAAlmEAAAAAAAAZkQYAAAAAYBkRBgAAAABgEREJAAAAABYREWEAAAAAFhERYQAAAAAWERFhAAAAABYREWEAAAAAYBERBgAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "tear"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
